@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=middlefitting&fontSize=90)
+ 
  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 <!--
 **middlefitting/middlefitting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
