@@ -1,4 +1,4 @@
-## 👋 middlefitting 
+## middlefitting 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=middlefitting&theme=tokyonight_light&show_icons=true&count_private=true&hide=prs,contribs&line_height=30&custom_title=middlefitting)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=middlefitting&langs_count=6&layout=compact&theme=tokyonight_light&custom_title=Languages)
 
@@ -10,12 +10,15 @@
 - wjdtmdcjf2@gmail.com
 
 
-## Main Skill
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+## ⚡ Main Skill
+&nbsp;&nbsp;<span><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></span>&nbsp;
 
-
-## 🌱Skill
-
+## 🌱 Skill
+- Language 
+- Backend 
+- Data Science 
+- DataBase 
+- Tool 
 
 <!--
 **middlefitting/middlefitting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +33,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋 
 -->
