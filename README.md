@@ -13,7 +13,7 @@
 ## ⚡ Main Skill
 
 &nbsp;&nbsp;<span><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></span>&nbsp;
-<span><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"/></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Jpa Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/></span><br/>
 
 ## 🌱 Skill
