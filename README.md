@@ -8,7 +8,7 @@
 - Big data management statistics, Kookmin University (~ 22/02)
 - 42Seoul Cardet (22/07 ~)
 - wjdtmdcjf2@gmail.com
-<br/>
+
 
 ## ⚡ Main Skill
 
