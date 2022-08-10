@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=middlefitting&fontSize=90)
  
 ![middlefitting's GitHub stats](https://github-readme-stats.vercel.app/api?username=middlefitting&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=middlefitting&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=middlefitting&layout=compact&theme=dracula)&custom_title=Languages]
 
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
 
