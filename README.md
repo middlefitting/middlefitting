@@ -11,13 +11,31 @@
 
 
 ## ⚡ Main Skill
+
 &nbsp;&nbsp;<span><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></span>&nbsp;
+<span><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Jpa Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/></span><br/>
 
 ## 🌱 Skill
-- Language 
+- Language
+&nbsp;&nbsp;<span><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Jpa Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/></span><br/>
+
+
+
+
+
+
 - Backend 
+
 - Data Science 
+
 - DataBase 
+
 - Tool 
 
 <!--
