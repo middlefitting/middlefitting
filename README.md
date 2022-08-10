@@ -8,13 +8,13 @@
 - Big data management statistics, Kookmin University (~ 22/02)
 - 42Seoul Cardet (22/07 ~)
 - wjdtmdcjf2@gmail.com
-
+<br/>
 
 ## ⚡ Main Skill
 
 &nbsp;&nbsp;<span><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"/></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Jpa Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/Jpa Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/></span><br/><br/>
 
 ## 🌱 Skill
 - Language
@@ -22,7 +22,7 @@
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></span>&nbsp;
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></span><br/><br/>
 
 - Backend 
 &nbsp;&nbsp;<span><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></span>&nbsp;
