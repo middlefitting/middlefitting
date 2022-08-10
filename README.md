@@ -1,7 +1,4 @@
-## 👋 middlefitting
-
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=middlefitting&fontSize=90)
- 
+## 👋 middlefitting 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=middlefitting&theme=tokyonight&show_icons=true&count_private=true&hide=prs,contribs&line_height=30&custom_title=middlefitting)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=middlefitting&langs_count=6&layout=compact&theme=tokyonight&custom_title=Languages)
 
