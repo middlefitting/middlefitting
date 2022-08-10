@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=middlefitting&langs_count=6&layout=compact&theme=tokyonight_light&custom_title=Languages)
 
 
-## 😄 Info
+## 📫 Info
 - SeungChul Chung
 - Big data management statistics, Kookmin University (~ 22/02)
 - 42Seoul Cardet (22/07 ~)
@@ -14,7 +14,7 @@
 
 &nbsp;&nbsp;<span><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"/></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Jpa Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/></span><br/><br/>
+<span><img src="https://img.shields.io/badge/Jpa Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/></span><br/>
 
 ## 🌱 Skill
 - Language
