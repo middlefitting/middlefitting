@@ -34,6 +34,9 @@
 <span><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></span>&nbsp;
 <span><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></span><br/>
 
+- Frontend 
+&nbsp;&nbsp;<span><img src="https://img.shields.io/badge/react.js-61DAFB?style=flat&logo=react&logoColor=white"/></span>&nbsp;
+
 - DataBase 
 &nbsp;&nbsp;<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></span><br/>
