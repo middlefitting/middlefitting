@@ -1,8 +1,4 @@
 ## middlefitting 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=middlefitting&theme=tokyonight_light&show_icons=true&count_private=true&hide=prs,contribs&line_height=30&custom_title=middlefitting)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=middlefitting&langs_count=6&layout=compact&theme=tokyonight_light&custom_title=Languages)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtmdcjf199)](https://solved.ac/wjdtmdcjf199/)
 
 
 ## 👋 Info
@@ -53,5 +49,12 @@
 > Version control
 &nbsp;&nbsp;<span><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></span>&nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></span><br/>
+
+## 🏃 Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtmdcjf199)](https://solved.ac/wjdtmdcjf199/)
+
+## :blue_car: GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=middlefitting&theme=tokyonight_light&show_icons=true&count_private=true&hide=prs,contribs&line_height=30&custom_title=middlefitting)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=middlefitting&langs_count=6&layout=compact&theme=tokyonight_light&custom_title=Languages)
 
 
