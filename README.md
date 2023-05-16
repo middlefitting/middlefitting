@@ -53,8 +53,8 @@
 ## 🏃 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtmdcjf199)](https://solved.ac/wjdtmdcjf199/)
 
-## :blue_car: GitHub Stats
+<!-- ## :blue_car: GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=middlefitting&theme=tokyonight_light&show_icons=true&count_private=true&hide=prs,contribs&line_height=30&custom_title=middlefitting)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=middlefitting&langs_count=6&layout=compact&theme=tokyonight_light&custom_title=Languages)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=middlefitting&langs_count=6&layout=compact&theme=tokyonight_light&custom_title=Languages) -->
 
 
