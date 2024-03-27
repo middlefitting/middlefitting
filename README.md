@@ -4,7 +4,7 @@
 ## 👋 Info
 - SeungChul Chung
 - Big data management statistics, Kookmin University
-- 42Seoul Cardet (22/07 ~)
+- 42Seoul Member
 - wjdtmdcjf2@gmail.com
 
 
